@@ -33,6 +33,6 @@ CSS
 CSS Selectors : [link](https://commitpush.hashnode.dev/css-selectors-101-targeting-elements-with-precision)
 
 js 
-more blogs comming soon 
+
 
 
